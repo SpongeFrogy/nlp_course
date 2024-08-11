@@ -7,7 +7,7 @@ node_modules
 *~
 *.swp
 
-
+*.vec
 
 env.sh
 # Byte-compiled / optimized / DLL files
@@ -30,6 +30,8 @@ lib64/
 parts/
 sdist/
 var/
+.venv/
+.vscode/
 *.egg-info/
 .installed.cfg
 *.egg/
