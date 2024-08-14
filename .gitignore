@@ -8,6 +8,7 @@ node_modules
 *.swp
 
 *.vec
+*.zip
 
 env.sh
 # Byte-compiled / optimized / DLL files
